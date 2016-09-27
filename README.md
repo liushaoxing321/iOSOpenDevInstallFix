@@ -1,5 +1,5 @@
 # iOSOpenDevInstallFix
-Fix iOSOpenDev installation for Xcode7.3.1
+Fix iOSOpenDev installation for Xcode7.3.1 & Xcode8
 
 Usage :
 
@@ -11,5 +11,4 @@ sh repair.sh
 
 Then, run iOSOpenDev-1.6-2.pkg.
 
-Tested on Xcode7.3.1 on OS X EICapitan.
 
